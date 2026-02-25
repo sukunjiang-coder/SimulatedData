@@ -37,7 +37,7 @@ Sample and reference haplotype files share the same **tab-delimited** format.
 ### Example
 
 ```text
-rsID        position    07_48_05_A   07_48_05_B
+rsID        POS    07_48_05_A   07_48_05_B
 rs10458597  554484      A           A
 rs2185539   556738      C           C
 rs11240767  718814      C           C
@@ -57,7 +57,7 @@ The ancestry file preserves variant positions and replaces nucleotide alleles wi
 ### Example
 
 ```text
-rsID        position    07_48_05_A   07_48_05_B
+rsID        POS    07_48_05_A   07_48_05_B
 rs10458597  554484      1           2
 rs2185539   556738      1           2
 rs11240767  718814      1           2
